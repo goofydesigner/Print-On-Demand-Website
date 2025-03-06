@@ -38,3 +38,13 @@ Number of screens:
 -✅️ About
 -✅️ Contat
 -✅️ Page not found
+
+
+
+Remaining pages in Print on Demand Website:
+
+-> Wishlist
+-> Cart
+-> Checkout
+-> Account
+-> Product Details
